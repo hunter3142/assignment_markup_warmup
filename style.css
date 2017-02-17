@@ -1,0 +1,81 @@
+.main_header {
+	background-color: rgb(252, 226, 151);
+	border-bottom: 3px solid black;
+	display: table;
+	width: 100%;
+}
+
+h3 { 
+	vertical-align: center;
+}
+
+.ad_box {
+	background-color: rgb(213, 166, 189);
+	border: 3px solid black;
+	float: left;
+	height: 500px;
+	margin-top: 15px;
+	margin-left: 10%;
+	text-align: center;
+	width: 226px;
+}
+
+.ad_text {
+	font-weight: bold;
+	margin-top: 125px;
+	padding-top: 10px;
+}
+
+img {
+	margin-left: 5%;
+	margin-top: 25px;
+}
+
+.main {
+	float: right;
+	margin-right: 10%;
+	width: 400px;
+}
+
+.sub_header {
+	background-color: rgb(182, 215, 168);
+	border: solid black 3px;
+	border-radius: 20px;
+	height: 100px;
+	line-height: 20px;
+	margin-left: 30%;
+	margin-right: 10%;
+	margin-top: 15px;
+	text-align: center;
+}
+
+.blog_post {
+	background-color: rgb(161, 195, 200);
+	font-size: 12px;
+	float: right;
+	margin-right: 15px;
+	margin-top: 10px;
+	width: 225px;
+}
+
+.blog_post_right {
+	background-color: rgb(161, 195, 200);
+	margin-right: 155px;
+	font-size: 12px;
+	float: right;
+	margin-top: 10px;
+	width: 225px;
+}
+
+h2 {
+	text-align: center;
+}
+
+h4 {
+	font-style: italic;
+	text-align: center;
+}
+
+p {
+	font-size: 16px
+}
